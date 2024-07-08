@@ -24,7 +24,7 @@
 
 <!-- - 💬 Ask me about **HTML, CSS, Bootstrap, Java & Android** -->
 
-- 📫 How to reach me: **daligdig.jeph09@gmail.com**
+- 📫 How to reach me: **daligdigjeph09@gmail.com**
 
 - ⚡ Fun fact: **I have a sense of Humor, Friendly, and Loves to play Guitar**
 
