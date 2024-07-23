@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm Jeph </h1>
+# Hello and Welcome 👋, I'm Jeph
 <h3 align="center">Full Stack Developer</h3>
 <p>I'm open to collaborating on freelance and open-source projects. If you have an exciting opportunity, feel free to reach out! 🤝 </p>
 <br/>
