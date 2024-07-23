@@ -1,5 +1,5 @@
-<h1 align="center">Welcome! I'm Jeph, Your Next Full Stack Developer 👋</h1>
-<h3 align="center">Ready for New Challenges</h3>
+<h1 align="center">hello im jeph👋</h1>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">I'm looking to collaborate on freelance and open-source projects. Please reach out! 🤝 </p>
 <br/>
 
@@ -7,14 +7,14 @@
 
 - 🚩 Currently a GitHub Campus Expert
 
-- 🎓 I graduated **Electronics and Communications Engineering** at **Mindanao State University - Iligan Institute of Technology**
+- 🏛️ I graduated **Bachelor’s Degree in Electronics Engineering** at **Mindanao State University - Iligan Institute of Technology**
 
 - 🎓 Alumni at [Nucamp](https://www.nucamp.co/), [TreeHouse](https://teamtreehouse.com/) and [Learn Computer Today Philippines](https://learncomputertoday.net/)
 
-- 🔍 Currently learning: **C#, ASP.NET, Data Engineering, Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
-
 - 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
-
+   
+- 🔍 Currently learning: **C#, ASP.NET, Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
+  
 - 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
 
 - 👯 I’m looking to collaborate on **Open Source**
@@ -25,9 +25,9 @@
 
 - 📫 How to reach me: **daligdigjeph09@gmail.com**
 
-- ⚡ Fun fact: **I have a sense of Humor, Friendly, and Loves to play Guitar**
+- ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
 
-## 🚀 Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -49,6 +49,7 @@
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="36" height="36" alt="Docker" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452054/linux.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 <p>
     <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" /></a>
@@ -75,7 +76,7 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </a>
 
-## 🤝 Connect with me
+## 🌐 Connect with me
 
 <p align="left">
 <a href="https://codepen.io/greatxrider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="greatxrider" height="30" width="40" /></a>
