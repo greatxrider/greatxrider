@@ -1,29 +1,27 @@
-# Hello and Welcome 👋, I'm Jeph
-<h3 align="center">Full Stack Developer</h3>
-<p>I'm open to collaborating on freelance and open-source projects. If you have an exciting opportunity, feel free to reach out! 🤝 </p>
+<h1 align="center">Welcome! I'm Jeph, Your Next Full Stack Developer 👋</h1>
+<h3 align="center">Ready for New Challenges</h3>
+<p align="center">I'm looking to collaborate on freelance and open-source projects. Please reach out! 🤝 </p>
 <br/>
 
-## 🙋‍♂️ About Me
+## 💼 About Me
 
 - 🚩 Currently a GitHub Campus Expert
 
-- 👨‍🎓 I graduated **Electronics and Communications Engineering** at **Mindanao State University - Iligan Institute of Technology**
+- 🎓 I graduated **Electronics and Communications Engineering** at **Mindanao State University - Iligan Institute of Technology**
 
-- 🕴️ (Career Transitioner) Former Electronics Engineer and a Test Development Engineer
+- 🎓 Alumni at [Nucamp](https://www.nucamp.co/), [TreeHouse](https://teamtreehouse.com/) and [Learn Computer Today Philippines](https://learncomputertoday.net/)
 
-- 🏕 Bootcamper at [Nucamp](https://www.nucamp.co/), [TreeHouse](https://teamtreehouse.com/) and [Learn Computer Today Philippines](https://learncomputertoday.net/)
+- 🔍 Currently learning: **C#, ASP.NET, Data Engineering, Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
 
-- 💻 I'm currently working on **Courses, Side Projects, Open Source Projects**
+- 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
 
-- 🌱 I’m currently learning **Full Stack Web Development (Javascript, Bootstrap, React JS, Angular JS, React Native, Node JS, Express JS)**
+- 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-<!-- - 🤝 I’m looking for help with **Java, Android & Flutter** -->
+<!-- - 🤝 I’m looking for help with **Java, C#, ASP.NET and Data Science & AI/ML Engineering** -->
 
 - 👨‍💻 All of my projects are available at my [Github Repos](https://github.com/greatxrider?tab=repositories)
-
-<!-- - 💬 Ask me about **HTML, CSS, Bootstrap, Java & Android** -->
 
 - 📫 How to reach me: **daligdigjeph09@gmail.com**
 
@@ -50,9 +48,11 @@
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 <p>
     <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448223/gcp.svg" width="36" height="36" alt="Google cloud" /></a>
 </p>
 
 \
@@ -67,9 +67,6 @@
 </a>
 <a href="https://visualstudio.microsoft.com/">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-</a>
-<a href="https://www.eclipse.org/">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </a>
 <a href="https://www.jetbrains.com/idea/">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
