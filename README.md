@@ -55,6 +55,7 @@
 <p>
     <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448223/gcp.svg" width="36" height="36" alt="Google cloud" /></a>
+   Planning to add more pokemon!
 </p>
 
 \
