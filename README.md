@@ -9,7 +9,7 @@
 
 - 🏛️ I graduated **Bachelor’s Degree in Electronics Engineering** at **Mindanao State University - Iligan Institute of Technology**
 
-- 🎓 Alumni at [Nucamp](https://www.nucamp.co/), [TreeHouse](https://teamtreehouse.com/) and [Learn Computer Today Philippines](https://learncomputertoday.net/)
+- 🎓 Alumni at [IBM](https://www.ibm.com/us-en), [Nucamp](https://www.nucamp.co/), [TreeHouse](https://teamtreehouse.com/) and [Learn Computer Today Philippines](https://learncomputertoday.net/)
 
 - 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
    
