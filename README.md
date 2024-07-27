@@ -1,6 +1,6 @@
-<h1 align="center">hello im jeph👋</h1>
-<h3 align="center">Full Stack Developer</h3>
-<p align="center">I'm looking to collaborate on freelance and open-source projects. Please reach out! 🤝 </p>
+<h1 align="center">jeph👋</h1>
+<h3 align="center">hello()</h3>
+<p align="center">Are you looking for someone to work with open-source and freelance projects? Please reach out to me! 🤝</p>
 <br/>
 
 ## 💼 About Me
