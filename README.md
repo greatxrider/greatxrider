@@ -54,9 +54,10 @@
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://svgl.app/library/django.svg" width="36" height="36" alt="Django" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="36" height="36" alt="Docker" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452054/linux.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -78,6 +79,14 @@
   <a href="https://www.jetbrains.com/webstorm/"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.svg.png?20210315203338"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/></a>
   <a href="https://developer.android.com/studio"><img width="36" height="36" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png"/></a>
+</p>
+
+## 🖥️ Command-Line Tools:
+<p>
+  <a target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" width="36" height="36" alt="Bash"/></a>
+  <a target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452054/linux.svg" width="36" height="36" alt="Linux" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="36" height="36" alt="GitBash" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" width="36" height="36" alt="Powershell" /></a>
 </p>
 
 ## 🌐 Connect with me
