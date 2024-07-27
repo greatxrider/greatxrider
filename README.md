@@ -1,4 +1,4 @@
-<h1 align="center">jeph👋</h1>
+<h1 align="center">jeph <a target="_blank" rel="noreferrer"><img src="https://media.tenor.com/aeIpfdcNwfEAAAAj/kameleon-kws-peas.gif" width="36" height="36" alt="HTML5" /></a>👋</h1>
 <h3 align="center">hello()</h3>
 <p align="center">Are you looking for someone to work with open-source and freelance projects? Please reach out to me! 🤝</p>
 <br/>
@@ -7,9 +7,12 @@
 
 - 🚩 Currently a GitHub Campus Expert
 
-- 🏛️ I graduated **Bachelor’s Degree in Electronics Engineering** at **Mindanao State University - Iligan Institute of Technology**
+- 🏛️ I graduated **Bachelor’s Degree in Electronics Engineering** at <a target="_blank" rel="noreferrer"><img src="https://www.msuiit.edu.ph/assets/img/seal-02.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
 
-- 🎓 Alumni at [IBM](https://www.ibm.com/us-en), [Nucamp](https://www.nucamp.co/), [TreeHouse](https://teamtreehouse.com/) and [Learn Computer Today Philippines](https://learncomputertoday.net/)
+- 🎓 Alumni at <a target="_blank" rel="noreferrer" href="https://www.ibm.com/us-en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png" width="60" height="20" alt="IBM Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://www.nucamp.co/">
+  <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
+  <img src="https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" width="36" height="36" alt="TreeHouse Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://learncomputertoday.net/">
+  <img src="https://learncomputertoday.net/wp-content/uploads/2023/09/Logo-with-tradamark.png.webp" width="80" height="36" alt="Learn Computer Today Philippines Logo" /></a>
 
 - 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
    
