@@ -1,4 +1,4 @@
-<h1 align="center">jeph <a target="_blank" rel="noreferrer"><img src="https://media.tenor.com/aeIpfdcNwfEAAAAj/kameleon-kws-peas.gif" width="36" height="36" alt="HTML5" /></a>👋</h1>
+<h1 align="center">im jeph JavaScript developer👋</h1>
 <h3 align="center">hello()</h3>
 <p align="center">Are you looking for someone to work with open-source and freelance projects? Please reach out to me! 🤝</p>
 <br/>
