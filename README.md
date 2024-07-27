@@ -13,6 +13,7 @@
   <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
   <img src="https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" width="36" height="36" alt="TreeHouse Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://learncomputertoday.net/">
   <img src="https://learncomputertoday.net/wp-content/uploads/2023/09/Logo-with-tradamark.png.webp" width="80" height="36" alt="Learn Computer Today Philippines Logo" /></a>
+  <img src="https://en.vetores.org/wp-content/uploads/coursera.png" width="80" height="36" alt="coursera" /></a>
 
 - 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
    
