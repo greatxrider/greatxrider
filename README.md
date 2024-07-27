@@ -1,4 +1,4 @@
-<h1 align="center">hello(); imJeph👋</h1>
+<h1 align="center">hi(); imJeph👋</h1>
 <h3 align="center">full stack javascript developer <a target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Vamd6ClPOPUAAAAi/agenturleben-hannover.gif" width="36" height="36" alt="HTML5" /></a></h3>
 <p align="center">Are you looking for someone to work with open-source and freelance projects? Please reach out to me! 🤝</p>
 <br/>
