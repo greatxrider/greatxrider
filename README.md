@@ -15,7 +15,8 @@
   <img src="https://learncomputertoday.net/wp-content/uploads/2023/09/Logo-with-tradamark.png.webp" width="80" height="36" alt="Learn Computer Today Philippines Logo" /></a>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_169326.png" width="36" height="36" alt="coursera" /></a>
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
- 
+  <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
+
 - 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
    
 - 🔍 Currently learning: **C#, ASP.NET, Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
