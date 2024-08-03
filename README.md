@@ -7,6 +7,7 @@
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2" alt="Twitter" /></a>
 </p>
 
+<h5 align="left">My GitHub Stats</h5>
 <p align="left">
   <a href="https://github.com/greatxrider/github-readme-stats"><img height=200  src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true" /></a>
   <a href="https://github.com/greatxrider/convoychat"><img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" /></a>
