@@ -7,36 +7,12 @@
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2" alt="Twitter" /></a>
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&theme=neon&show_icons=true" alt="Top Languages" width="36.5%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon&show_icons=true" alt="GitHub Stats" width="48%" />
-</div>
-
-## 💼 About Me
-
-- 🚩 Currently a GitHub Campus Expert
-  
-- 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://www.msuiit.edu.ph/assets/img/seal-02.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
-  
-- 🎓 Alumni at <a target="_blank" rel="noreferrer" href="https://www.ibm.com/us-en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png" width="60" height="20" alt="IBM Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://www.nucamp.co/">
-  <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
-  <img src="https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" width="36" height="36" alt="TreeHouse Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://learncomputertoday.net/">
-  <img src="https://learncomputertoday.net/wp-content/uploads/2023/09/Logo-with-tradamark.png.webp" width="80" height="36" alt="Learn Computer Today Philippines Logo" /></a>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_169326.png" width="36" height="36" alt="coursera" /></a>
-  <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
-  <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
-
-- 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
-   
-- 🔍 Currently learning: **Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
-  
-- 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 📫 How to reach me: **daligdigjeph09@gmail.com**
-
-- ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
+<a href="https://github.com/greatxrider/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=neon&show_icons=true" />
+</a>
+<a href="https://github.com/greatxrider/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&langs_count=8&card_width=320&theme=neon&show_icons=true" />
+</a>
 
 <div>
   <h5 align="center">Programming Languages</h5>
@@ -106,3 +82,31 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Powershell-003B70?logo=powershell&logoColor=white&style=for-the-badge&labelColor=003B70" alt="Powershell" /></a>
   </p>
 </div>
+
+## 💼 About Me
+
+- 🚩 Currently a GitHub Campus Expert
+  
+- 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://www.msuiit.edu.ph/assets/img/seal-02.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
+  
+- 🎓 Alumni at <a target="_blank" rel="noreferrer" href="https://www.ibm.com/us-en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png" width="60" height="20" alt="IBM Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://www.nucamp.co/">
+  <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
+  <img src="https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" width="36" height="36" alt="TreeHouse Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://learncomputertoday.net/">
+  <img src="https://learncomputertoday.net/wp-content/uploads/2023/09/Logo-with-tradamark.png.webp" width="80" height="36" alt="Learn Computer Today Philippines Logo" /></a>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_169326.png" width="36" height="36" alt="coursera" /></a>
+  <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
+  <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
+
+- 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
+   
+- 🔍 Currently learning: **Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
+  
+- 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 📫 How to reach me: **daligdigjeph09@gmail.com**
+
+- ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
+
+
