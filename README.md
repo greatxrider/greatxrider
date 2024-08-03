@@ -1,12 +1,12 @@
 <h1 align="center">imJeph</h1>
 <h3 align="center">full stack javascript developer <a target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Vamd6ClPOPUAAAAi/agenturleben-hannover.gif" width="36" height="36" alt="HTML5" /></a></h3>
-<p align="center">Are you looking for someone to work with open-source and freelance projects? Please reach out to me! 🤝</p>
 <div align="center">
   <img src="https://i.pinimg.com/originals/40/71/d6/4071d667fae30cd0e003c165f9dc757e.png" width="180" height="200" alt="gigachad" style="border-radius: 15px;" />
 </div>
-
+<div></div>
 <br/>
-
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greatxrider&theme=ambient_gradient&show_icons=true)
 ## 💼 About Me
 
 - 🚩 Currently a GitHub Campus Expert
