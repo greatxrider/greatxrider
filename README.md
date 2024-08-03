@@ -1,9 +1,17 @@
-<h5>Jeph Daligdig</h5>
-<h3 align="center">full stack javascript developer <a target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Vamd6ClPOPUAAAAi/agenturleben-hannover.gif" width="36" height="36" alt="HTML5" /></a></h3>
+# Hi, I'm Jeph 👋
+<p align="left">
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=1877F2" alt="Facebook" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" alt="Instagram" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge&labelColor=FE7A16" alt="Stack Overflow" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2" alt="Twitter" /></a>
+</p>
 
-<br/>
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greatxrider&theme=ambient_gradient&show_icons=true)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&theme=neon&show_icons=true" alt="Top Languages" width="36.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon&show_icons=true" alt="GitHub Stats" width="48%" />
+</div>
+
 ## 💼 About Me
 
 - 🚩 Currently a GitHub Campus Expert
@@ -25,10 +33,6 @@
 - 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
 
 - 👯 I’m looking to collaborate on **Open Source**
-
-<!-- - 🤝 I’m looking for help with **Java, C#, ASP.NET and Data Science & AI/ML Engineering** -->
-
-- 👨‍💻 All of my projects are available at my [Github Repos](https://github.com/greatxrider?tab=repositories)
 
 - 📫 How to reach me: **daligdigjeph09@gmail.com**
 
@@ -100,16 +104,5 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&labelColor=FCC624" alt="Linux" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20Bash-FC8C1D?logo=git-bash&logoColor=white&style=for-the-badge&labelColor=FC8C1D" alt="GitBash" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Powershell-003B70?logo=powershell&logoColor=white&style=for-the-badge&labelColor=003B70" alt="Powershell" /></a>
-  </p>
-</div>
-
-<div>
-  <h5 align="center">Connect with me</h5>
-  <p align="center">
-    <a href="https://codepen.io/greatxrider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="greatxrider" height="30" width="40" /></a>
-    <a href="https://twitter.com/mrjephdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeph_daligdig" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/mrjephdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="great_rider" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/jephmari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JephMariDaligdig" height="30" width="40" />  </a>
-    <a href="https://stackoverflow.com/users/21569052/jeph-mari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14479352/ginoong-flores"   height="30" width="40" /></a>
   </p>
 </div>
