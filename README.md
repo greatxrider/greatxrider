@@ -1,6 +1,7 @@
 <h1 align="center">hi(); imJeph👋</h1>
 <h3 align="center">full stack javascript developer <a target="_blank" rel="noreferrer"><img src="https://media.tenor.com/Vamd6ClPOPUAAAAi/agenturleben-hannover.gif" width="36" height="36" alt="HTML5" /></a></h3>
 <p align="center">Are you looking for someone to work with open-source and freelance projects? Please reach out to me! 🤝</p>
+<img src="https://i.pinimg.com/564x/45/8c/3f/458c3f7140305496786b1c8f6cac3d2d.jpg" width="80" height="36" alt="gigachad" />
 <br/>
 
 ## 💼 About Me
