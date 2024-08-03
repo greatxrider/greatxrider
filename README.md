@@ -7,12 +7,15 @@
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2" alt="Twitter" /></a>
 </p>
 
-<a href="https://github.com/greatxrider/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=neon&show_icons=true" />
+<p align="center">
+  <a href="https://github.com/greatxrider/github-readme-stats"><img height=200  src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true" /></a>
+  <a href="https://github.com/greatxrider/convoychat"><img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/greatxrider/streak-stats"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=algolia&show_icons=true" alt="Streak" />
 </a>
-<a href="https://github.com/greatxrider/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&langs_count=8&card_width=320&theme=neon&show_icons=true" />
-</a>
+
+</p>
 
 <div>
   <h5 align="left">Programming Languages</h5>
@@ -83,8 +86,7 @@
   </p>
 </div>
 
-## 💼 About Me
-
+## About Me
 - 🚩 Currently a GitHub Campus Expert
   
 - 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://www.msuiit.edu.ph/assets/img/seal-02.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
@@ -96,17 +98,15 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_169326.png" width="36" height="36" alt="coursera" /></a>
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
   <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
-
+  
 - 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
-   
+  
 - 🔍 Currently learning: **Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
   
 - 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
-
+  
 - 👯 I’m looking to collaborate on **Open Source**
-
+  
 - 📫 How to reach me: **daligdigjeph09@gmail.com**
-
+  
 - ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
-
-
