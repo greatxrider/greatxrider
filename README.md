@@ -15,8 +15,8 @@
 </a>
 
 <div>
-  <h5 align="center">Programming Languages</h5>
-  <p align="center">
+  <h5 align="left">Programming Languages</h5>
+  <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333" alt="JavaScript" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333" alt="TypeScript" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="Python" /></a>
@@ -25,8 +25,8 @@
 </div>
 
 <div>
-  <h5 align="center">Tools</h5>
-  <p align="center">
+  <h5 align="left">Tools</h5>
+  <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26" alt="HTML5" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6" alt="CSS3" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032" alt="Git" /></a>
@@ -50,7 +50,7 @@
 </div>
 
 <div>
-  <h5 align="center">Data Management</h5>
+  <h5 align="left">Data Management</h5>
   <p>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FB8C00?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FB8C00" alt="Firebase" /></a>
@@ -63,8 +63,8 @@
 </div>
 
 <div>
-  <h5 align="center">Development Tools</h5>
-  <p align="center">
+  <h5 align="left">Development Tools</h5>
+  <p align="left">
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelColor=007ACC" alt="VS Code" /></a>
     <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge&labelColor=5C2D91" alt="Visual Studio" /></a>
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge&labelColor=000000" alt="WebStorm" /></a>
@@ -74,8 +74,8 @@
 </div>
 
 <div>
-  <h5 align="center">Command Line Tools</h5>
-  <p align="center">
+  <h5 align="left">Command Line Tools</h5>
+  <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=bash&logoColor=white&style=for-the-badge&labelColor=4EAA25" alt="Bash" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&labelColor=FCC624" alt="Linux" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20Bash-FC8C1D?logo=git-bash&logoColor=white&style=for-the-badge&labelColor=FC8C1D" alt="GitBash" /></a>
