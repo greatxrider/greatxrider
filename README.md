@@ -1,4 +1,5 @@
 # Hi, I'm Jeph 👋
+<h2>Full Stack JavaScript Developer</h2>
 <p align="left">
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=1877F2" alt="Facebook" /></a>
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" alt="Instagram" /></a>
