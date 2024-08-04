@@ -4,10 +4,10 @@
   I'm a Full Stack JavaScript Developer with over 2 years of experience. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
   technologies, including AI, I deliver high-quality solutions that reflect dignity and professionalism.
 
-  I'm very respectable, easy to work with, and quick to learn new technologies. To further delight my clients, I am currently enrolled in various educational institutions, investing in learning more skills, 
+  I'm very easy to work with, and quick to learn new technologies. To further delight my clients, I am currently enrolled in various educational institutions, investing in learning more skills, 
   frameworks, and technologies for building software. 
   
-  My studies include Data Science (to gain mastery over databases), Angular, Next.JS, ASP.NET, and Django, enabling me to meet all of my clients' needs.
+  My studies include DATA SCIENCE (enhancing skills over databases), ANGULAR, NEXTJS, ASP.NET, and DJANGO.
 
   Are you looking for a Full Stack Developer? Look no further; I am here for you.
   <br>
