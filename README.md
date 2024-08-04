@@ -1,13 +1,13 @@
 # Hi, I'm Jeph 👋
 <h2>Full Stack JavaScript Developer</h2>
 <p>
-  I'm a Full Stack JavaScript Developer with over 2 years of experience. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
+  I have been working as a developer for over 2 years now. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
   technologies, including AI, I deliver high-quality solutions that reflect dignity and professionalism.
 
-  I'm very easy to work with, and quick to learn new technologies. To further delight my clients, I am currently enrolled in various educational institutions, investing in learning more skills, 
+  I'm very easy to work with, and quick to learn new technologies. To further delight my clients, I am currently enrolled in various educational institutions, investing to mastery of techniques, learning more skills, 
   frameworks, and technologies for building software. 
   
-  My studies include DATA SCIENCE (enhancing skills over databases), ANGULAR, NEXTJS, ASP.NET, and DJANGO.
+  My studies include DATA SCIENCE (enhancing skills over databases), ANGULAR, NEXTJS, ASP.NET, FLASK and DJANGO.
 
   Are you looking for a Full Stack Developer? Look no further; I am here for you.
   <br>
@@ -38,6 +38,8 @@
 
 </p>
 
+<h5 align="left">My Tech Stack</h5>
+
 <div>
   <h5 align="left">Programming Languages</h5>
   <p align="left">
@@ -45,6 +47,44 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333" alt="TypeScript" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="Python" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-9B4F8C?logo=c-sharp&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="CSharp" /></a>
+  </p>
+</div>
+
+<div>
+  <h5 align="left">Frontend</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="React" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white&style=for-the-badge&labelColor=E23237" alt="Angular" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000" alt="NextJs" /></a>
+  </p>
+</div>
+
+<div>
+  <h5 align="left">Backend</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933" alt="NodeJS" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="ExpressJS" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
+  </p>
+</div>
+
+<div>
+  <h5 align="left">Database</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostGreSQL" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FB8C00?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FB8C00" alt="Firebase" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=4479A1" alt="MySQL" /></a>
+  </p>
+</div>
+
+<div>
+  <h5 align="left">Cloud Services</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IBM%20Cloud-2D2D2D?logo=ibm-cloud&logoColor=white&style=for-the-badge&labelColor=2D2D2D" alt="IBM Cloud" /></a>
   </p>
 </div>
 
@@ -58,31 +98,11 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=06B6D4" alt="TailwindCSS" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=F24E1E" alt="Figma" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=646CFF" alt="Vite" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="React" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="ReactNative" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white&style=for-the-badge&labelColor=E23237" alt="Angular" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000" alt="NextJs" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933" alt="NodeJS" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="Express" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelColor=FF6C37" alt="Postman" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=2496ED" alt="Docker" /></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
-
-<div>
-  <h5 align="left">Data Management</h5>
-  <p>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FB8C00?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FB8C00" alt="Firebase" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=4479A1" alt="MySQL" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostGreSQL" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IBM%20Cloud-2D2D2D?logo=ibm-cloud&logoColor=white&style=for-the-badge&labelColor=2D2D2D" alt="IBM Cloud" /></a>
   </p>
 </div>
 
