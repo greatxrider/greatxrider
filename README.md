@@ -56,6 +56,14 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="React" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white&style=for-the-badge&labelColor=E23237" alt="Angular" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000" alt="NextJs" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26" alt="HTML5" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6" alt="CSS3" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=563D7C" alt="Bootstrap" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=06B6D4" alt="TailwindCSS" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=F24E1E" alt="Figma" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=646CFF" alt="Vite" /></a>
   </p>
 </div>
 
@@ -67,6 +75,11 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032" alt="Git" /></a>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelColor=FF6C37" alt="Postman" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=2496ED" alt="Docker" /></a>
   </p>
 </div>
 
@@ -89,20 +102,9 @@
 </div>
 
 <div>
-  <h5 align="left">Tools</h5>
+  <h5 align="left">Mobile Application Development</h5>
   <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26" alt="HTML5" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6" alt="CSS3" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032" alt="Git" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=563D7C" alt="Bootstrap" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=06B6D4" alt="TailwindCSS" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=F24E1E" alt="Figma" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=646CFF" alt="Vite" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="ReactNative" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelColor=FF6C37" alt="Postman" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=2496ED" alt="Docker" /></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
