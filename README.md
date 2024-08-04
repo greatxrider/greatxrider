@@ -1,5 +1,10 @@
 # Hi, I'm Jeph 👋
 <h2>Full Stack JavaScript Developer</h2>
+<p>
+  I'm a Full Stack JavaScript Developer with over 2 years of experience. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
+  technologies, including AI, I deliver high-quality solutions that reflect dignity and professionalism. Are you looking for a Full Stack Developer? Look no further; I am here for you.
+</p>
+
 <p align="left">
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=1877F2" alt="Facebook" /></a>
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" alt="Instagram" /></a>
