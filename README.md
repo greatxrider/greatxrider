@@ -142,8 +142,6 @@
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
   <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
   
-- 👔 **(Career Transitioner)** Former **Electronics Engineer** and **Test Development Engineer**
-  
 - 🔍 Currently learning: **Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
   
 - 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
