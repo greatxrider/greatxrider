@@ -1,7 +1,7 @@
-# Hi, I'm Jeph 👋
+# Jeph Daligdig—@greatxrider 👋
 <h2>Full Stack JavaScript Developer</h2>
 <p>
-  I have been working as a developer for over 2 years now. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
+  Hi I'm Jeph——a developer for over 2 years now. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
   technologies, including AI, I deliver high-quality solutions that reflect dignity and professionalism.
 
   I'm very easy to work with, and quick to learn new technologies. To further delight my clients, I am currently enrolled in various educational institutions, investing to mastery of techniques, learning more skills, 
