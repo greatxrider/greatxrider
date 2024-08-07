@@ -1,4 +1,4 @@
-# Jeph Daligdig—@greatxrider 👋
+# Jeph Daligdig—@greatxrider
 <h2>Full Stack JavaScript Developer</h2>
 <p>
   Hi I'm Jeph——a developer for over 2 years now. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
