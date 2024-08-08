@@ -1,20 +1,17 @@
 # Jeph Daligdig—@greatxrider
 <h2>Full Stack JavaScript Developer</h2>
-<p>
-  Hi I'm Jeph——a Full Stack Developer for over a year now. I help companies build what they need and what benefits them, always with utmost dedication. I design and build cutting-edge software applications and dynamic websites with care, and respect. 
-  Leveraging the latest technologies, using AI. I deliver high-quality solutions that reflect dignity and professionalism.
-
-  I'm very easy to work with, and very quick to learn new technologies. I'm a lifelong learner, I am committed to expanding my skills through formal education to achieve mastery in my field.
-
-  Are you looking for a Full Stack Developer? Look no further; I am readily available.
-  <br>
-  <br>
-  **Contact me**
-  <br>
-  Email: daligdig.jephmari@gmail.com
-  <br>
-  Phone: +63-975-948-3289
-</p>
+<section>
+  <p>Hi, I'm Jeph—A Full Stack JavaScript Developer specializing in the MERN stack.</p>
+  <p>I design and build cutting-edge software applications and dynamic websites with care and respect.</p>
+  <p>I help businesses and organizations develop solutions that meet their needs and drive their success, with unwavering dedication.</p>
+  <p>Leveraging the latest technologies and AI to deliver high-quality solutions that reflect dignity and professionalism.</p>
+  <p>Easy to work with and quick to learn new technologies, I am committed to expanding my skills through formal education to achieve mastery in my field.</p>
+  <h2>Are you Looking for a Developer?</h2>
+  <p>Look no further; I am readily available.</p>
+  <h3>Contact Me</h3>
+  <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
+  <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
+</section>
 
 <p align="left">
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=1877F2" alt="Facebook" /></a>
