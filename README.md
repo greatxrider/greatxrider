@@ -1,15 +1,12 @@
 # Jeph Daligdig—@greatxrider
 <h2>Full Stack JavaScript Developer</h2>
 <p>
-  Hi I'm Jeph——a developer for over 2 years now. I help companies and clients build what they need and what benefits them, always with utmost dedication. I create software and websites with care, and respect. Leveraging the latest        
-  technologies, including AI, I deliver high-quality solutions that reflect dignity and professionalism.
+  Hi I'm Jeph——a Full Stack Developer for over a year now. I help companies build what they need and what benefits them, always with utmost dedication. I design and build cutting-edge software applications and dynamic websites with care, and respect. 
+  Leveraging the latest technologies, using AI. I deliver high-quality solutions that reflect dignity and professionalism.
 
-  I'm very easy to work with, and quick to learn new technologies. To further delight my clients, I am currently enrolled in various educational institutions, investing to mastery of techniques, learning more skills, 
-  frameworks, and technologies for building software. 
-  
-  My studies include DATA SCIENCE (enhancing skills over databases), ANGULAR, NEXTJS, ASP.NET, FLASK and DJANGO.
+  I'm very easy to work with, and very quick to learn new technologies. I'm a lifelong learner, I am committed to expanding my skills through formal education to achieve mastery in my field.
 
-  Are you looking for a Full Stack Developer? Look no further; I am here for you.
+  Are you looking for a Full Stack Developer? Look no further; I am readily available.
   <br>
   <br>
   **Contact me**
@@ -37,6 +34,15 @@
 </p>
 
 <h5 align="left">My Tech Stack</h5>
+
+<div>
+  <h5 align="left">AI</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white&style=for-the-badge&labelColor=000000" alt="GitHub Copilot" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bard-4285F4?logo=google&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Bard" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=for-the-badge&labelColor=000000" alt="OpenAI" /></a>
+  </p>
+</div>
 
 <div>
   <h5 align="left">Programming Languages</h5>
