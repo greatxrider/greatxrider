@@ -33,9 +33,7 @@
   <a href="https://github.com/greatxrider/convoychat"><img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/greatxrider/streak-stats"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&show_icons=true" alt="Streak" />
-</a>
-
+  <a href="https://github.com/greatxrider/streak-stats"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&show_icons=true" alt="Streak" /></a>
 </p>
 
 <h5 align="left">My Tech Stack</h5>
@@ -47,6 +45,7 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333" alt="TypeScript" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="Python" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-9B4F8C?logo=c-sharp&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="CSharp" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&labelColor=00ADD8" alt="Go" /></a>
   </p>
 </div>
 
@@ -54,16 +53,15 @@
   <h5 align="left">Frontend</h5>
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="React" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white&style=for-the-badge&labelColor=E23237" alt="Angular" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000" alt="NextJs" /></a>
     <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26" alt="HTML5" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6" alt="CSS3" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=563D7C" alt="Bootstrap" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=06B6D4" alt="TailwindCSS" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=F24E1E" alt="Figma" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=646CFF" alt="Vite" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux" /></a>
   </p>
 </div>
 
@@ -72,9 +70,8 @@
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933" alt="NodeJS" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="ExpressJS" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=black" alt="Pug" /></a>
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032" alt="Git" /></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -87,9 +84,7 @@
   <h5 align="left">Database</h5>
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostGreSQL" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FB8C00?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FB8C00" alt="Firebase" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=4479A1" alt="MySQL" /></a>
   </p>
 </div>
 
@@ -129,6 +124,30 @@
   </p>
 </div>
 
+<div>
+  <h5 align="left">Currently Learning and Working On</h5>
+  <h6 align="left">I am actively learning and working on projects with these tech stacks to develop a diverse skill set. This enables me to be flexible and address a wide range of my clients needs without any skill gaps.</h6>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white&style=for-the-badge&labelColor=E23237" alt="Angular" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular_Universal-00ACC1?logo=angularuniversal&logoColor=white&style=for-the-badge&labelColor=E23237" alt="Angular Universal" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge&labelColor=4FC08D" alt="Vue.js" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white&style=for-the-badge&labelColor=00C58E" alt="Nuxt.js" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge&labelColor=512BD4" alt=".NET" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=aspnetcore&logoColor=white&style=for-the-badge&labelColor=512BD4" alt="ASP.NET Core" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostGreSQL" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=4479A1" alt="MySQL" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQLite" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge&labelColor=232F3E" alt="AWS" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?logo=azure&logoColor=white&style=for-the-badge&labelColor=0078D4" alt="Azure" /></a>
+  </p>
+</div>
+
 ## About Me
 - 🚩 Currently a GitHub Campus Expert
   
@@ -141,7 +160,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_169326.png" width="36" height="36" alt="coursera" /></a>
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
   <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
-  
+
 - 🔍 Currently learning: **Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
   
 - 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
@@ -149,3 +168,11 @@
 - 👯 I’m looking to collaborate on **Open Source**
   
 - ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
+
+## Goals
+
+<h5>Mastering All My Skills in Software Engineering Over the Next Five Years</h5>
+<h5>Aspiring to Become a <strong>Tech Lead</strong> Within the Next 5 to 8 Years</h5>
+<h5>Committed to Mentoring and Training the Next Generation of Developers</h5>
+<h5>Striving to Be a Role Model and Make a Positive Impact on the Developer Community</h5>
+<h5>On a Mission to Master Every Tech Stack, I'm Gonna Catch 'Em All!</h5>
