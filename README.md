@@ -33,6 +33,13 @@
 <h5 align="left">My Tech Stack</h5>
 
 <div>
+  <h5 align="left">TOP SKILL</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Growth%20Mindset-28A745?style=for-the-badge&logoColor=white&labelColor=2C3E50" alt="Growth Mindset" /></a>
+  </p>
+</div>
+
+<div>
   <h5 align="left">AI</h5>
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white&style=for-the-badge&labelColor=000000" alt="GitHub Copilot" /></a>
