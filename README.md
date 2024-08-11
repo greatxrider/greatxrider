@@ -161,7 +161,7 @@
 ## About Me
 - 🚩 Currently a GitHub Campus Expert
   
-- 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://www.msuiit.edu.ph/assets/img/seal-02.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
+- 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/7/74/Mindanao_State_University_-_Iligan_Institute_of_Technology.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
   
 - 🎓 Alumni at <a target="_blank" rel="noreferrer" href="https://www.ibm.com/us-en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png" width="60" height="20" alt="IBM Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://www.nucamp.co/">
   <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
