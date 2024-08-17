@@ -80,6 +80,8 @@
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933" alt="NodeJS" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="ExpressJS" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=black" alt="Pug" /></a>
     <br>
@@ -143,9 +145,6 @@
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge&labelColor=4FC08D" alt="Vue.js" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white&style=for-the-badge&labelColor=00C58E" alt="Nuxt.js" /></a>
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge&labelColor=512BD4" alt=".NET" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=aspnetcore&logoColor=white&style=for-the-badge&labelColor=512BD4" alt="ASP.NET Core" /></a>
