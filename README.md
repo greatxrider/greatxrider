@@ -96,7 +96,8 @@
   <h5 align="left">Database</h5>
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FB8C00?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FB8C00" alt="Firebase" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud_Firestore-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud Firestore" /></a>
+    <a target="_blank" rel="noreferrer" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostgreSQL" /></a>
   </p>
 </div>
 
