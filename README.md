@@ -89,8 +89,6 @@
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelColor=FF6C37" alt="Postman" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=2496ED" alt="Docker" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=000000" alt="Vercel" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge&labelColor=00C7B7" alt="Netlify" /></a>
   </p>
 </div>
 
@@ -115,6 +113,15 @@
   <h5 align="left">Mobile Application Development</h5>
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="ReactNative" /></a>
+  </p>
+</div>
+
+<div>
+  <h5 align="left">Deployment</h5>
+  <p align="left">
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=000000" alt="Vercel" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge&labelColor=00C7B7" alt="Netlify" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FFCA28" alt="Firebase" /></a>
   </p>
 </div>
 
