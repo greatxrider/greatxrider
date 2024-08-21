@@ -98,6 +98,7 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud_Firestore-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud Firestore" /></a>
     <a target="_blank" rel="noreferrer" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostgreSQL" /></a>
+    <a target="_blank" rel="noreferrer" href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQLite" /></a>
   </p>
 </div>
 
