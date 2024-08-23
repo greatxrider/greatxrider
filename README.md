@@ -82,7 +82,6 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="ExpressJS" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=black" alt="Pug" /></a>
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032" alt="Git" /></a>
@@ -93,15 +92,23 @@
 </div>
 
 <div>
-  <h5 align="left">Databases and Management</h5>
+  <h5 align="left">Databases, Management and ODM & ORM</h5>
   <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQL" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NoSQL-47A248?logo=nosql&logoColor=white&style=for-the-badge&labelColor=47A248" alt="NoSQL" /></a>
     <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud_Firestore-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud Firestore" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ORM-003B57?logo=database&logoColor=white&style=for-the-badge&labelColor=003B57" alt="ORM" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ODM-003B57?logo=odm&logoColor=white&style=for-the-badge&labelColor=003B57" alt="ODM" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mongoose-4A154B?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=4A154B" alt="Mongoose" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firestore%20SDK-FFCA28?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FFCA28" alt="Firestore SDK" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQL" /></a>
     <a target="_blank" rel="noreferrer" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostgreSQL" /></a>
     <a target="_blank" rel="noreferrer" href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQLite" /></a>
+    <br>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NoSQL-003B57?logo=nosql&logoColor=white&style=for-the-badge&labelColor=47A248" alt="NoSQL" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud_Firestore-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud Firestore" /></a>
   </p>
 </div>
 
