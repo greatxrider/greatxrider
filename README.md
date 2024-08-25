@@ -1,7 +1,7 @@
 # Jeph Daligdig—@greatxrider
-<h2>Full Stack JavaScript Developer</h2>
+<h2>Full Stack Engineer</h2>
 <section>
-  <p>Hi, I'm Jeph—A Full Stack JavaScript Developer specializing in the MERN stack.</p>
+  <p>Hi, I'm Jeph—A Full Stack Engineer specializing in the MERN stack.</p>
   <p>I design and build cutting-edge software applications and dynamic websites with care and respect.</p>
   <p>I help businesses and organizations develop solutions that meet their needs and drive their success, with unwavering dedication.</p>
   <p>Leveraging the latest technologies and AI to deliver high-quality solutions that reflect dignity and professionalism.</p>
