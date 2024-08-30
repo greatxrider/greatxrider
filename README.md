@@ -97,10 +97,13 @@
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ORM-003B57?logo=database&logoColor=white&style=for-the-badge&labelColor=003B57" alt="ORM" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django_ORM-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django ORM" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLAlchemy-4B2D77?logo=python&logoColor=white&style=for-the-badge&labelColor=4B2D77" alt="SQLAlchemy" /></a>
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ODM-003B57?logo=odm&logoColor=white&style=for-the-badge&labelColor=003B57" alt="ODM" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mongoose-4A154B?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=4A154B" alt="Mongoose" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firestore%20SDK-FFCA28?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FFCA28" alt="Firestore SDK" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyMongo-339933?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=339933" alt="PyMongo" /></a>
     <br>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQL" /></a>
     <a target="_blank" rel="noreferrer" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostgreSQL" /></a>
