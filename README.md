@@ -36,7 +36,7 @@
   <h5 align="left">TOP SKILL</h5>
   <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Growth%20Mindset-28A745?style=for-the-badge&logoColor=white&labelColor=2C3E50" alt="Growth Mindset" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/I%20Don't%20Give%20Up-003B57?logo=database&logoColor=white&style=for-the-badge&labelColor=003B57" alt="I Don't Give Up" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Perseverance-003B57?logo=database&logoColor=white&style=for-the-badge&labelColor=003B57" alt="I Don't Give Up" /></a>
   </p>
 </div>
 
