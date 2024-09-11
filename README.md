@@ -137,6 +137,7 @@
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=000000" alt="Vercel" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge&labelColor=00C7B7" alt="Netlify" /></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FFCA28" alt="Firebase" /></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge&labelColor=0B0D0E" alt="Railway" /></a>
   </p>
 </div>
 
