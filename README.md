@@ -7,7 +7,7 @@
   <p>Leveraging the latest technologies and AI to deliver high-quality solutions that reflect dignity and professionalism.</p>
   <p>I'm very easy to work with and quick to learn new technologies, a lifelong learner committed to expanding skills through formal education and achieve mastery in software.</p>
   <h2>Are you Looking for a Developer?</h2>
-  <p>Look no further—you've found the right person.</p>
+  <p>Your search ends here—I'm ready to assist!</p>
   <h3>Contact Me</h3>
   <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
   <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
