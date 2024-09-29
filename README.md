@@ -11,7 +11,7 @@
   <h3>Contact Me</h3>
   <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
   <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
-  <p>Website: <a href="https://www.linkedin.com/company/imyouritguy">https://www.linkedin.com/company/imyouritguy</a></p>
+  <p>Website: <a href="https://www.imyouritguy.works/">https://www.imyouritguy.works/</a></p>
   <p>Services Page: <a href="https://www.linkedin.com/company/imyouritguy">https://www.linkedin.com/company/imyouritguy</a></p>
 </section>
 
