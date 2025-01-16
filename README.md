@@ -2,9 +2,6 @@
 <h2>Software Developer</h2>
 <section>
   <p>Hi, I'm Jeph—A Software Developer with expertise in JavaScript and Python.
-  <p>I design and build cutting-edge software applications and dynamic websites with care and respect.</p>
-  <p>I help businesses and organizations develop solutions that meet their needs and drive their success, with unwavering dedication.</p>
-  <p>Leveraging the latest technologies and AI to deliver high-quality solutions that reflect dignity and professionalism.</p>
   <p>I'm very easy to work with and quick to learn new technologies, a lifelong learner committed to expanding skills through formal education and achieve mastery in software.</p>
 
   <h3>Contact Me</h3>
