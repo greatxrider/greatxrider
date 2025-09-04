@@ -1,15 +1,13 @@
 # Jeph Daligdig—@greatxrider
-<h2>Software Developer</h2>
+<h2>AI Automation Specialist | Full‑Stack Developer</h2>
 <section>
-  <p>Hi, I'm Jeph—A Software Developer with expertise in JavaScript and Python.
-  <p>I'm very easy to work with and quick to learn new technologies, a lifelong learner committed to expanding skills through formal education and achieve mastery in software.</p>
+  <p>Hi, I'm Jeph. I design and build AI‑powered automations and full‑stack web apps that save time, reduce errors, and scale operations.</p>
 
   <h3>Contact Me</h3>
   <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
   <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
-  <p>Website: <a href="https://www.imyouritguy.works/">https://www.imyouritguy.works/</a></p>
-  <p>Services Page: <a href="https://www.linkedin.com/company/imyouritguy">https://www.linkedin.com/company/imyouritguy</a></p>
-  <p>Treehouse Acc: <a href="https://teamtreehouse.com/profiles/greatxrider">https://teamtreehouse.com/profiles/greatxrider</a></p>
+  <p>Website: <a href="https://www.jephmari.com/">https://www.jephmari.com/</a></p>
+  <p>Services Page: <a href="https://www.nomanuai.com/">https://www.nomanuai.com</a></p>
 </section>
 
 <p align="left">
