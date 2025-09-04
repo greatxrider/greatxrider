@@ -1,8 +1,8 @@
 # Jeph Daligdig—@greatxrider
 <h2>AI Automation Specialist | Full‑Stack Developer</h2>
 <section>
-  <p>Hi, I'm Jeph. I design and build AI‑powered automations and full‑stack web apps that save time, reduce errors, and scale operations.</p>
-
+  <p>Designing and building AI-powered automations and full-stack web apps that save time, reduce errors, and scale operations.</p>
+  
   <h3>Contact Me</h3>
   <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
   <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
@@ -134,5 +134,3 @@
 - Master applied AI automation and full‑stack engineering in the next 5 years
 - Grow into a Tech Lead role in 5–8 years
 - Mentor and support the next generation of developers
-
-If you want to automate a workflow or ship a product faster, reach out. Let's build something useful.
