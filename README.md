@@ -128,18 +128,12 @@
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
   <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
 
-- 🔍 Currently learning: **Data Science, and ML/AI Engineering** at [DataCamp](https://www.datacamp.com/)
-  
-- 💻 Currently working on **Course Projects**, innovating **Side Projects**, and contributing to **Open Source**
-  
-- 👯 I’m looking to collaborate on **Open Source**
-  
 - ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
 
 ## Goals
 
-<h5>Mastering All My Skills in Software Engineering Over the Next Five Years</h5>
-<h5>Aspiring to Become a <strong>Tech Lead</strong> Within the Next 5 to 8 Years</h5>
-<h5>Committed to Mentoring and Training the Next Generation of Developers</h5>
-<h5>Striving to Be a Role Model and Make a Positive Impact on the Developer Community</h5>
-<h5>On a Mission to Master Every Tech Stack, I'm Gonna Catch 'Em All!</h5> ---- Can you pelase transform this README.md file for my github, I want it tailored to AI Automation Specialist and as well higlighting my skills in Full Stack Development. And also the tools update it as well to have n8n, make, zapier etc. and make the grammar in plain basic english but make it professional
+- Master applied AI automation and full‑stack engineering in the next 5 years
+- Grow into a Tech Lead role in 5–8 years
+- Mentor and support the next generation of developers
+
+If you want to automate a workflow or ship a product faster, reach out. Let's build something useful.
