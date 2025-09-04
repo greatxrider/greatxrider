@@ -27,137 +27,72 @@
   <a href="https://github.com/greatxrider/streak-stats"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&show_icons=true" alt="Streak" /></a>
 </p>
 
-<h5 align="left">My Tech Stack</h5>
+## What I Do
 
-<div>
-  <h5 align="left">TOP SKILL</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Growth%20Mindset-28A745?style=for-the-badge&logoColor=white&labelColor=2C3E50" alt="Growth Mindset" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Perseverance-003B57?logo=database&logoColor=white&style=for-the-badge&labelColor=003B57" alt="I Don't Give Up" /></a>
-  </p>
-</div>
+- Build no‑code/low‑code automations with robust error handling and alerts
+- Integrate CRMs, email, chat, forms, and databases
+- Create AI assistants and data agents for lead gen, routing, and insights
+- Ship production‑ready APIs and full‑stack apps with clean architecture
 
-<div>
-  <h5 align="left">AI</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=github&logoColor=white&style=for-the-badge&labelColor=000000" alt="GitHub Copilot" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bard-4285F4?logo=google&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Bard" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=for-the-badge&labelColor=000000" alt="OpenAI" /></a>
-  </p>
-</div>
+## Tools I Use
 
-<div>
-  <h5 align="left">Programming Languages</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333" alt="JavaScript" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333" alt="TypeScript" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="Python" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-9B4F8C?logo=c-sharp&logoColor=white&style=for-the-badge&labelColor=F7DF1E" alt="CSharp" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&labelColor=00ADD8" alt="Go" /></a>
-  </p>
-</div>
+### Automation Platforms
 
-<div>
-  <h5 align="left">Frontend</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="React" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge&labelColor=000000" alt="NextJs" /></a>
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26" alt="HTML5" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6" alt="CSS3" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=563D7C" alt="Bootstrap" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&labelColor=06B6D4" alt="TailwindCSS" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=F24E1E" alt="Figma" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=646CFF" alt="Vite" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux" /></a>
-  </p>
-</div>
+[![n8n](https://img.shields.io/badge/n8n-FD3A5C?logo=n8n&logoColor=white&style=for-the-badge)](https://n8n.io)
+[![Make](https://img.shields.io/badge/Make-2C2C2C?logo=make&logoColor=white&style=for-the-badge)](https://www.make.com)
+[![Zapier](https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white&style=for-the-badge)](https://zapier.com)
+[![UiPath](https://img.shields.io/badge/UiPath-FF6C37?logo=uipath&logoColor=white&style=for-the-badge)](https://www.uipath.com)
+[![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF7F00?style=for-the-badge)](https://www.automationanywhere.com)
 
-<div>
-  <h5 align="left">Backend</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933" alt="NodeJS" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="ExpressJS" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelColor=000000" alt="Flask" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=black" alt="Pug" /></a>
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=F05032" alt="Git" /></a>
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelColor=FF6C37" alt="Postman" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=2496ED" alt="Docker" /></a>
-  </p>
-</div>
+### AI Models and Services
 
-<div>
-  <h5 align="left">Databases, Management and ODM & ORM</h5>
-  <p align="left">
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ORM-003B57?logo=database&logoColor=white&style=for-the-badge&labelColor=003B57" alt="ORM" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=52B0E7" alt="Sequelize" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django_ORM-092E20?logo=django&logoColor=white&style=for-the-badge&labelColor=092E20" alt="Django ORM" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLAlchemy-4B2D77?logo=python&logoColor=white&style=for-the-badge&labelColor=4B2D77" alt="SQLAlchemy" /></a>
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ODM-003B57?logo=odm&logoColor=white&style=for-the-badge&labelColor=003B57" alt="ODM" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mongoose-4A154B?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=4A154B" alt="Mongoose" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firestore%20SDK-FFCA28?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FFCA28" alt="Firestore SDK" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyMongo-339933?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=339933" alt="PyMongo" /></a>
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQL" /></a>
-    <a target="_blank" rel="noreferrer" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1" alt="PostgreSQL" /></a>
-    <a target="_blank" rel="noreferrer" href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57" alt="SQLite" /></a>
-    <br>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NoSQL-003B57?logo=nosql&logoColor=white&style=for-the-badge&labelColor=47A248" alt="NoSQL" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud_Firestore-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud Firestore" /></a>
-  </p>
-</div>
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=for-the-badge)](https://openai.com)
+[![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge)](https://claude.ai)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://ai.google)
 
-<div>
-  <h5 align="left">Cloud Services</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=4285F4" alt="Google Cloud" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IBM%20Cloud-2D2D2D?logo=ibm-cloud&logoColor=white&style=for-the-badge&labelColor=2D2D2D" alt="IBM Cloud" /></a>
-  </p>
-</div>
+### Frontend
 
-<div>
-  <h5 align="left">Mobile Application Development</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="ReactNative" /></a>
-  </p>
-</div>
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
 
-<div>
-  <h5 align="left">Deployment</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=000000" alt="Vercel" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge&labelColor=00C7B7" alt="Netlify" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge&labelColor=FFCA28" alt="Firebase" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge&labelColor=0B0D0E" alt="Railway" /></a>
-  </p>
-</div>
+### Backend
 
-<div>
-  <h5 align="left">Development Tools</h5>
-  <p align="left">
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelColor=007ACC" alt="VS Code" /></a>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge&labelColor=5C2D91" alt="Visual Studio" /></a>
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge&labelColor=000000" alt="WebStorm" /></a>
-    <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge&labelColor=000000" alt="PyCharm" /></a>
-    <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge&labelColor=3DDC84" alt="Android Studio" /></a>
-  </p>
-</div>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com)
 
-<div>
-  <h5 align="left">Command Line Tools</h5>
-  <p align="left">
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=bash&logoColor=white&style=for-the-badge&labelColor=4EAA25" alt="Bash" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&labelColor=FCC624" alt="Linux" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git%20Bash-FC8C1D?logo=git-bash&logoColor=white&style=for-the-badge&labelColor=FC8C1D" alt="GitBash" /></a>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Powershell-003B70?logo=powershell&logoColor=white&style=for-the-badge&labelColor=003B70" alt="Powershell" /></a>
-  </p>
-</div>
+### Databases and ORM/ODM
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)](https://www.sqlite.org)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)](https://sequelize.org)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B2D77?style=for-the-badge)](https://www.sqlalchemy.org)
+[![Mongoose](https://img.shields.io/badge/Mongoose-4A154B?style=for-the-badge)](https://mongoosejs.com)
+
+### Cloud and DevOps
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://vercel.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://www.netlify.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)](https://firebase.google.com)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge)](https://railway.app)
+
+### Languages
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
+
+## Selected Services
+
+- CRM and pipeline automation (HubSpot, Pipedrive, Airtable)
+- Lead capture, enrichment, scoring, and routing
+- Email, chat, and calendar workflows
+- Data sync across tools, webhook and API integrations
+- AI chatbots and internal tools for support and ops
 
 <div>
   <h5 align="left">Currently Learning and Working On</h5>
