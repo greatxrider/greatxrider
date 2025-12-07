@@ -1,5 +1,5 @@
 # Jeph Daligdig—@greatxrider
-<h2>AI Automation Specialist | Full‑Stack Developer</h2>
+<h2>AI Automation Specialist | Software Engineer</h2>
 <section>
   <p>Designing and building AI-powered automations and full-stack web apps that save time, reduce errors, and scale operations.</p>
   
