@@ -21,10 +21,7 @@
 </p>
 
 <h5 align="left">My GitHub Stats</h5>
-<p align="left">
-  <a href="https://github.com/greatxrider"><img height=200 src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/greatxrider"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" alt="Top Languages" /></a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left">
   <a href="https://github.com/greatxrider"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical" alt="GitHub Streak" /></a>
 </p>
