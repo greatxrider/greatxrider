@@ -1,8 +1,8 @@
-# Jeph Daligdig — @greatxrider
-<h2>AI Software Engineer</h2>
+# Jeph Daligdig—@greatxrider
+<h2>AI Engineer | Software Engineer</h2>
 <section>
-  <p>Building AI-powered applications and agent systems with Claude Code, Cursor, and modern full-stack frameworks. I integrate large language models into production software — from autonomous agents and MCP servers to enterprise automations and full-stack web apps.</p>
-
+  <p>Designing and building AI-powered automations and full-stack web apps that save time, reduce errors, and scale operations.</p>
+  
   <h3>Contact Me</h3>
   <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
   <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
@@ -29,27 +29,12 @@
 
 ## What I Do
 
-- Design and ship AI agent systems with tool use, memory, and multi-step reasoning
-- Build production applications powered by LLMs (Claude, GPT, Gemini)
-- Develop custom MCP servers and Claude Code skills for specialized workflows
-- Build no-code/low-code automations with robust error handling and alerts
+- Build no‑code/low‑code automations with robust error handling and alerts
 - Integrate CRMs, email, chat, forms, and databases
 - Create AI assistants and data agents for lead gen, routing, and insights
-- Ship production-ready APIs and full-stack apps with clean architecture
+- Ship production‑ready APIs and full‑stack apps with clean architecture
 
 ## Tools I Use
-
-### AI Development Tools
-
-[![Claude Code](https://img.shields.io/badge/Claude_Code-191919?logo=anthropic&logoColor=white&style=for-the-badge)](https://claude.ai/claude-code)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge)](https://cursor.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com)
-
-### AI Models and Services
-
-[![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?logo=anthropic&logoColor=white&style=for-the-badge)](https://anthropic.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=for-the-badge)](https://openai.com)
-[![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://ai.google)
 
 ### Automation Platforms
 
@@ -59,16 +44,16 @@
 [![UiPath](https://img.shields.io/badge/UiPath-FF6C37?logo=uipath&logoColor=white&style=for-the-badge)](https://www.uipath.com)
 [![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF7F00?style=for-the-badge)](https://www.automationanywhere.com)
 
-### Languages
+### AI Models and Services
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=for-the-badge)](https://openai.com)
+[![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge)](https://claude.ai)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://ai.google)
 
 ### Frontend
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
 
 ### Backend
@@ -76,7 +61,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)](https://fastapi.tiangolo.com)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com)
 
@@ -84,7 +68,6 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)](https://www.pinecone.io)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)](https://www.sqlite.org)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)](https://sequelize.org)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B2D77?style=for-the-badge)](https://www.sqlalchemy.org)
@@ -96,17 +79,12 @@
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://www.netlify.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)](https://firebase.google.com)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge)](https://railway.app)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com)
 
-## Current Work
+### Languages
 
-Building AI-powered applications at **NextGenMed**, where I develop:
-
-- **Claude Code Skills & Agents** — 30+ specialized skills for content generation, course building, and business development automation
-- **MCP Server Integrations** — Custom Model Context Protocol servers for Gmail, Google Drive, HubSpot, and Slack
-- **Enterprise Dashboards** — Real-time command centers with live API feeds and AI-assisted decision support
-- **Physician Education Platform** — Full-stack Next.js application delivering AI-generated medical education content
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
 
 ## Selected Services
 
@@ -115,7 +93,6 @@ Building AI-powered applications at **NextGenMed**, where I develop:
 - Email, chat, and calendar workflows
 - Data sync across tools, webhook and API integrations
 - AI chatbots and internal tools for support and ops
-- Custom MCP servers and Claude Code skill development
 
 <div>
   <h5 align="left">Currently Learning and Working On</h5>
@@ -140,9 +117,9 @@ Building AI-powered applications at **NextGenMed**, where I develop:
 
 ## About Me
 - 🚩 Currently a GitHub Campus Expert
-
-- 🏛️ Degree: **Bachelor's Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/7/74/Mindanao_State_University_-_Iligan_Institute_of_Technology.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
-
+  
+- 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/7/74/Mindanao_State_University_-_Iligan_Institute_of_Technology.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
+  
 - 🎓 Alumni at <a target="_blank" rel="noreferrer" href="https://www.ibm.com/us-en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png" width="60" height="20" alt="IBM Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://www.nucamp.co/">
   <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
   <img src="https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" width="36" height="36" alt="TreeHouse Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://learncomputertoday.net/">
@@ -150,12 +127,10 @@ Building AI-powered applications at **NextGenMed**, where I develop:
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
   <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
 
-- ⚡ Fun fact: I'm a dog lover, guitarist, and have a great sense of humor!
+- ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
 
 ## Goals
 
-- Ship AI agent systems that solve real business problems at scale
-- Master applied AI automation and full-stack engineering
-- Contribute to the open-source AI tooling ecosystem
-- Grow into a Tech Lead role in AI engineering
-- Mentor and support the next generation of AI-native developers
+- Master applied AI automation and full‑stack engineering in the next 5 years
+- Grow into a Tech Lead role in 5–8 years
+- Mentor and support the next generation of developers
