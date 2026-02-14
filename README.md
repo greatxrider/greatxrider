@@ -23,33 +23,28 @@
 <h5 align="left">My GitHub Stats</h5>
 ## My GitHub Stats
 
-<!-- GitHub Stats Card — shows commits, PRs, issues, stars, reviews, PRs merged -->
+<!-- GitHub Stats Card -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
-  <!-- Top Languages Card — donut layout -->
   <a href="https://github.com/greatxrider">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&layout=donut&langs_count=8" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (separate service, usually more reliable) -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Pinned Repositories -->
+<!-- GitHub Activity Graph -->
 <p align="left">
-  <a href="https://github.com/greatxrider/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=greatxrider&theme=radical&hide_border=true&border_radius=10" alt="Profile Repo" />
+  <a href="https://github.com/greatxrider">
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=greatxrider&theme=redical&hide_border=true&radius=10" alt="Activity Graph" />
   </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/greatxrider"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 ## What I Do
