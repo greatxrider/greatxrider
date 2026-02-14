@@ -1,21 +1,23 @@
-# Jeph Daligdig—@greatxrider
-<h2>AI Engineer | Software Engineer</h2>
-<section>
-  <p>Designing and building AI-powered automations and full-stack web apps that save time, reduce errors, and scale operations.</p>
-  
-  <h3>Contact Me</h3>
-  <p>Email: <a href="mailto:daligdig.jephmari@gmail.com">daligdig.jephmari@gmail.com</a></p>
-  <p>Phone: <a href="tel:+639759483289">+63-975-948-3289</a></p>
-  <p>Website: <a href="https://www.jephmari.com/">https://www.jephmari.com/</a></p>
-  <p>Services Page: <a href="https://www.nomanuai.com/">https://www.nomanuai.com</a></p>
-</section>
+# Jeph Daligdig — @greatxrider
+
+<h2>Software Engineer | AI Engineer</h2>
+
+<p>I help Founders and CEOs build AI agents, MCP servers, AI-powered products, and automate everything. I work with Claude Code, Cursor, and modern full-stack frameworks to ship production software — from autonomous agents and custom MCP servers to enterprise dashboards and no-code automations.</p>
+
+<p>
+  <a href="mailto:daligdig.jephmari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+  <a href="tel:+639759483289"><img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white&style=flat-square" alt="Phone" /></a>
+  <a href="https://www.jephmari.com/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.nomanuai.com/"><img src="https://img.shields.io/badge/Services-4285F4?logo=google-chrome&logoColor=white&style=flat-square" alt="Services" /></a>
+</p>
 
 <p align="left">
-  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=1877F2" alt="Facebook" /></a>
-  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" alt="Instagram" /></a>
-  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" alt="LinkedIn" /></a>
-  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge&labelColor=FE7A16" alt="Stack Overflow" /></a>
-  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge&labelColor=1DA1F2" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/jeph-mari-daligdig/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/greatxrider" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://stackoverflow.com/users/greatxrider" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/greatxrider" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
+  <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
 </p>
 
 <h5 align="left">My GitHub Stats</h5>
@@ -117,20 +119,11 @@
 
 ## About Me
 - 🚩 Currently a GitHub Campus Expert
-  
 - 🏛️ Degree: **Bachelor’s Degree in Electronics Engineering Major in Microelectronics** at <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/7/74/Mindanao_State_University_-_Iligan_Institute_of_Technology.png" width="36" height="36" alt="HTML5" /></a> **Mindanao State University - Iligan Institute of Technology**
-  
 - 🎓 Alumni at <a target="_blank" rel="noreferrer" href="https://www.ibm.com/us-en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1024px-IBM_logo.svg.png" width="60" height="20" alt="IBM Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://www.nucamp.co/">
   <img src="https://www.nucamp.co/assets/imgs/nucamp-logotype-only-color-vector.svg" width="100" height="20" alt="Nucamp Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://teamtreehouse.com/">
   <img src="https://ecs-static.teamtreehouse.com/assets/logo-232a207b24bcb8ab1fba7c1d85467f71d7b2d010d427c859987ed641706f45d9.png" width="36" height="36" alt="TreeHouse Logo" /></a>  <a target="_blank" rel="noreferrer" href="https://learncomputertoday.net/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_169326.png" width="36" height="36" alt="coursera" /></a>
   <img src="https://www.jsmastery.pro/assets/general/icons/favicon-32x32.png" width="36" height="36" alt="jsmastery" /></a>
   <img src="https://vectorlogoseek.com/wp-content/uploads/2019/04/freecodecamp-vector-logo.png" width="80" height="36" alt="freecodecamp" /></a>
-
 - ⚡ Fun fact: I’m a dog lover, guitarist, and have a great sense of humor!
-
-## Goals
-
-- Master applied AI automation and full‑stack engineering in the next 5 years
-- Grow into a Tech Lead role in 5–8 years
-- Mentor and support the next generation of developers
