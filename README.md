@@ -23,7 +23,6 @@
 <h5 align="left">My GitHub Stats</h5>
 
 ## My GitHub Stats
-## My GitHub Stats
 
 <!-- IMPORTANT: If stats/language/pin images don't load, the public instance is rate-limited. -->
 <!-- To fix permanently: fork anuraghazra/github-readme-stats, deploy to Vercel,            -->
