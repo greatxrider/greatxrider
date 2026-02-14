@@ -20,9 +20,7 @@
   <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
 </p>
 
-<h5 align="left">My GitHub Stats</h5>
-
-## My GitHub Stats
+## Stats
 
 <p align="left">
   <a href="https://github.com/greatxrider">
@@ -51,10 +49,10 @@
 
 ## What I Do
 
-- Build no‑code/low‑code automations with robust error handling and alerts
-- Integrate CRMs, email, chat, forms, and databases
-- Create AI assistants and data agents for lead gen, routing, and insights
-- Ship production‑ready APIs and full‑stack apps with clean architecture
+- Build SaaS products, websites, and software using AI tools (Claude Code, Cursor)
+- Develop AI agents, custom MCP servers, and Claude Code skills
+- Automate business workflows across CRMs, email, chat, and databases
+- Ship full-stack apps with Python, TypeScript, and Next.js
 
 ## Tools I Use
 
