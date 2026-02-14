@@ -31,11 +31,11 @@
 <!-- 1. GitHub Stats Card — commits, PRs, issues, stars, reviews, PRs merged -->
 <p align="left">
   <a href="https://github.com/greatxrider">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-stats-wine-rho-86.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
   <!-- 2. Top Languages Card — donut layout -->
   <a href="https://github.com/greatxrider">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut&langs_count=10" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats-wine-rho-86.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -56,26 +56,26 @@
 <!-- 5. GitHub Extra Pins — showcase top repositories -->
 <p align="left">
   <a href="https://github.com/greatxrider/greatxrider">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=greatxrider&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="greatxrider" />
+    <img width="400" src="https://github-readme-stats-wine-rho-86.vercel.app/api/pin/?username=greatxrider&repo=greatxrider&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="greatxrider" />
   </a>
   <a href="https://github.com/greatxrider/nomanuAI">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=nomanuAI&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="nomanuAI" />
+    <img width="400" src="https://github-readme-stats-wine-rho-86.vercel.app/api/pin/?username=greatxrider&repo=nomanuAI&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="nomanuAI" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/greatxrider/jephWebsite">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=jephWebsite&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="jephWebsite" />
+    <img width="400" src="https://github-readme-stats-wine-rho-86.vercel.app/api/pin/?username=greatxrider&repo=jephWebsite&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="jephWebsite" />
   </a>
   <a href="https://github.com/greatxrider/anonova-app">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=anonova-app&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="anonova-app" />
+    <img width="400" src="https://github-readme-stats-wine-rho-86.vercel.app/api/pin/?username=greatxrider&repo=anonova-app&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="anonova-app" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/greatxrider/dev-overflow">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=dev-overflow&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="dev-overflow" />
+    <img width="400" src="https://github-readme-stats-wine-rho-86.vercel.app/api/pin/?username=greatxrider&repo=dev-overflow&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="dev-overflow" />
   </a>
   <a href="https://github.com/greatxrider/eduManage-full-stack-app">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=eduManage-full-stack-app&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="eduManage-full-stack-app" />
+    <img width="400" src="https://github-readme-stats-wine-rho-86.vercel.app/api/pin/?username=greatxrider&repo=eduManage-full-stack-app&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="eduManage-full-stack-app" />
   </a>
 </p>
 
@@ -85,20 +85,19 @@
 
 <!-- Compact bar layout -->
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages Compact" />
+  <img height="200" src="https://github-readme-stats-wine-rho-86.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages Compact" />
 </p>
 
 <!-- Pie chart layout -->
 <p align="left">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=pie&langs_count=10" alt="Top Languages Pie" />
+  <img height="300" src="https://github-readme-stats-wine-rho-86.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=pie&langs_count=10" alt="Top Languages Pie" />
 </p>
 
 <!-- Donut vertical layout -->
 <p align="left">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut-vertical&langs_count=10" alt="Top Languages Donut Vertical" />
+  <img height="300" src="https://github-readme-stats-wine-rho-86.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut-vertical&langs_count=10" alt="Top Languages Donut Vertical" />
 </p>
 </details>
-
 
 ## What I Do
 
