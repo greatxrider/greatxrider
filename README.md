@@ -21,31 +21,85 @@
 </p>
 
 <h5 align="left">My GitHub Stats</h5>
+
+## My GitHub Stats
 ## My GitHub Stats
 
-<!-- GitHub Stats Card -->
+<!-- IMPORTANT: If stats/language/pin images don't load, the public instance is rate-limited. -->
+<!-- To fix permanently: fork anuraghazra/github-readme-stats, deploy to Vercel,            -->
+<!-- add PAT_1 env var, then replace "github-readme-stats.vercel.app" with your Vercel URL.  -->
+
+<!-- 1. GitHub Stats Card — commits, PRs, issues, stars, reviews, PRs merged -->
 <p align="left">
   <a href="https://github.com/greatxrider">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
+  <!-- 2. Top Languages Card — donut layout -->
   <a href="https://github.com/greatxrider">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut&langs_count=8" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
-<!-- GitHub Streak Stats (separate service, usually more reliable) -->
+<!-- 3. GitHub Streak Stats -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- 4. GitHub Activity Graph -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=greatxrider&theme=redical&hide_border=true&radius=10" alt="Activity Graph" />
   </a>
 </p>
+
+<!-- 5. GitHub Extra Pins — showcase top repositories -->
+<p align="left">
+  <a href="https://github.com/greatxrider/greatxrider">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=greatxrider&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="greatxrider" />
+  </a>
+  <a href="https://github.com/greatxrider/nomanuAI">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=nomanuAI&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="nomanuAI" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/greatxrider/jephWebsite">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=jephWebsite&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="jephWebsite" />
+  </a>
+  <a href="https://github.com/greatxrider/anonova-app">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=anonova-app&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="anonova-app" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/greatxrider/dev-overflow">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=dev-overflow&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="dev-overflow" />
+  </a>
+  <a href="https://github.com/greatxrider/eduManage-full-stack-app">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=eduManage-full-stack-app&theme=radical&hide_border=true&border_radius=10&show_owner=true" alt="eduManage-full-stack-app" />
+  </a>
+</p>
+
+<!-- 6. Top Languages — alternative layouts -->
+<details>
+<summary><strong>More Language Stats</strong></summary>
+
+<!-- Compact bar layout -->
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages Compact" />
+</p>
+
+<!-- Pie chart layout -->
+<p align="left">
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=pie&langs_count=10" alt="Top Languages Pie" />
+</p>
+
+<!-- Donut vertical layout -->
+<p align="left">
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut-vertical&langs_count=10" alt="Top Languages Donut Vertical" />
+</p>
+</details>
+
 
 ## What I Do
 
