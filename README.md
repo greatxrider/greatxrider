@@ -21,7 +21,33 @@
 </p>
 
 <h5 align="left">My GitHub Stats</h5>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## My GitHub Stats
+
+<!-- GitHub Stats Card — shows commits, PRs, issues, stars, reviews, PRs merged -->
+<p align="left">
+  <a href="https://github.com/greatxrider">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  </a>
+  <!-- Top Languages Card — donut layout -->
+  <a href="https://github.com/greatxrider">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&layout=donut&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="left">
+  <a href="https://github.com/greatxrider">
+    <img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Pinned Repositories -->
+<p align="left">
+  <a href="https://github.com/greatxrider/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=greatxrider&repo=greatxrider&theme=radical&hide_border=true&border_radius=10" alt="Profile Repo" />
+  </a>
+</p>
+
 <p align="left">
   <a href="https://github.com/greatxrider"><img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical" alt="GitHub Streak" /></a>
 </p>
