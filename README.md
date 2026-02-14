@@ -1,8 +1,8 @@
-# Jeph Daligdig — @greatxrider
+# Jeph Daligdig @greatxrider
 
 <h2>Software Engineer | AI Engineer</h2>
 
-<p>I help Founders and CEOs build AI agents, MCP servers, AI-powered products, and automate everything. I work with Claude Code, Cursor, and modern full-stack frameworks to ship production software — from autonomous agents and custom MCP servers to enterprise dashboards and no-code automations.</p>
+<p>I help Founders and CEOs build AI agents, MCP servers, AI-powered products, and automate everything. I work with Claude Code, Cursor, and modern full-stack frameworks to ship production software from autonomous agents and custom MCP servers to enterprise dashboards and no-code automations.</p>
 
 <p>
   <a href="mailto:daligdig.jephmari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
