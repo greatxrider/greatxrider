@@ -24,40 +24,27 @@
 
 ## My GitHub Stats
 
-<!-- IMPORTANT: If stats/language/pin images don't load, the public instance is rate-limited. -->
-<!-- To fix permanently: fork anuraghazra/github-readme-stats, deploy to Vercel,            -->
-<!-- add PAT_1 env var, then replace "github-readme-stats.vercel.app" with your Vercel URL.  -->
-
-<!-- 1. GitHub Stats Card — commits, PRs, issues, stars, reviews, PRs merged -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img height="200" src="https://github-readme-stats-wine-rho-86.vercel.app/api?username=greatxrider&theme=radical&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
-  <!-- 2. Top Languages Card — donut layout -->
   <a href="https://github.com/greatxrider">
     <img height="200" src="https://github-readme-stats-wine-rho-86.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=donut&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
-<!-- 3. GitHub Streak Stats -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img height="200" src="https://streak-stats.demolab.com/?user=greatxrider&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- 4. GitHub Activity Graph -->
 <p align="left">
   <a href="https://github.com/greatxrider">
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=greatxrider&theme=redical&hide_border=true&radius=10" alt="Activity Graph" />
   </a>
 </p>
 
-<!-- 6. Top Languages — alternative layouts -->
-<details>
-<summary><strong>More Language Stats</strong></summary>
-
-<!-- Compact bar layout -->
 <p align="left">
   <img height="200" src="https://github-readme-stats-wine-rho-86.vercel.app/api/top-langs/?username=greatxrider&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages Compact" />
 </p>
